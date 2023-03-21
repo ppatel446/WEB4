@@ -1,4 +1,15 @@
-
+/*********************************************************************************
+*  WEB322 – Assignment 04
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Krish Patel Student ID: 165807215 Date: 12/03/2023
+*
+*  Cyclic Web App URL: https://kind-erin-cygnet-coat.cyclic.app
+*
+*  GitHub Repository URL: https://github.com/krishp2003/web322-app.git
+*
+********************************************************************************/  
 const express = require("express");
 const path = require("path");
 const app = express();
